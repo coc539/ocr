@@ -1,0 +1,13 @@
+train: D:\Yolo\data\train
+val: D:\Yolo\data\val
+test: D:\Yolo\data\test
+
+nc: 1
+names: ['Label']
+
+roboflow:
+  workspace: yash-prajapati-5gvhb
+  project: label-detection-8oi6g
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/yash-prajapati-5gvhb/label-detection-8oi6g/dataset/4
