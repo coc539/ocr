@@ -33,3 +33,5 @@ if __name__ == "__main__":
     image = "5.png"
     BarcodeReader(image)
 
+for i in range :
+    i = i+1
